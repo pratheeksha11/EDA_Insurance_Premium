@@ -4,7 +4,6 @@
 <sup><sub>Citation: OpenAI. (2023). Health Insurance Cost Prediction and Exploratory Data Analysis cover image. DALL·E.</sub></sup>
 
 
-
 ## Overview
 This project encompasses a thorough Exploratory Data Analysis (EDA) and predictive modeling of health insurance costs using a dataset of insurance beneficiaries. The goal is to identify factors that influence medical costs billed by health insurance and to develop predictive models to estimate these costs.
 
